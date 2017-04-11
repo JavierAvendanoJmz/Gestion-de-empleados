@@ -1,0 +1,5 @@
+Equipo: Javier Eduardo Avendaño Jimenez, Cesar Enrique Cruz Pomposo
+
+La carpeta de Gestion de Empleados es un proyecto de Eclipse
+La base de datos esta hecha en Oracle
+Hay que importar el conector de Oracle al proyecto de Java o tenerlo instalado
